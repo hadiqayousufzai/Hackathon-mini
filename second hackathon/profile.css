@@ -1,0 +1,21 @@
+.header {
+    overflow: hidden;
+    background-color: blueviolet;
+    padding: 20px 10px;
+  }
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: blueviolet;
+  }
+  .header-right {
+    float: right;
+    background-color: blueviolet;
+  }
+  .two{
+    padding: 10px;
+    box-shadow: 1px 2px 2px gray;
+  }
+  .profile{
+    text-align: center;
+ }
